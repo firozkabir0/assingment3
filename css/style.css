@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav a{
+    text-decoration: none;
+    
+    
+    margin: 10px;
+    padding: 15px;
+    
+    color: lavender;
+    
+    
+
+}
+nav{
+    font-size: 30px;
+    text-align: center;
+    
+    
+    
+}
+nav a:hover{
+    color:red;
+
+}
+.header{
+    height: 30px;
+    background-color: rgba(36, 142, 228, 0.671);
+    padding: 20px;
+    
+	
+}
+.container{
+    overflow: hidden;
+    
+}
+.blog{
+    width: 70%;
+    height: 1000px;
+    
+    float: left;
+
+}
+.contact{
+    width: 30%;
+    height: 1000px;
+    
+    float: right;
+
+}
+.footer{
+    height:100px;
+    background-color: slategray;
+}
